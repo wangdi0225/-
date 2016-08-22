@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb846b6e-03f9-4364-9051-d435bacf1026" name="Default" comment="" />
@@ -27,9 +27,9 @@
     <favorites_list name="yuehai" />
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
+
     <leaf>
-=======
+
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
@@ -44,7 +44,7 @@
           </provider>
         </entry>
       </file>
->>>>>>> develop
+
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/king/yuehai/yuehai/Activity/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
